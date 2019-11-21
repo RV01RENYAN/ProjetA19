@@ -9,7 +9,6 @@ public class RayCasting : MonoBehaviour
 
     public const int RAYCASTLENGTH = 100;   // Longueur du rayon issu de la caméra
 
-
     public CursorMode cursorMode = CursorMode.Auto;
     public Vector2 hotSpot = new Vector2(16, 16);   // Offset du centre du curseur
     public Texture2D cursorOff, cursorDragged, cursorDraggable; // Textures à appliquer aux curseurs
