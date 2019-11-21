@@ -111,6 +111,9 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>E:/France/RV01/ProjetBBQ/ProjetA19/Projet1/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>E:/France/RV01/ProjetBBQ/ProjetA19/Projet1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>E:/France/RV01/ProjetBBQ/ProjetA19/Projet1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>

@@ -31,7 +31,7 @@ public class RayCasting : MonoBehaviour
 
         if (rayCasted)
         {
-            rayCasted = hitInfo.transform.CompareTag("Draggable");
+            rayCasted = hitInfo.transform.CompareTag("Draggable") || hitInfo.transform.CompareTag("Fish") || hitInfo.transform.CompareTag("Skewer");
         }
         // rayCasted est true si un objet possédant le tag draggable est détécté
 

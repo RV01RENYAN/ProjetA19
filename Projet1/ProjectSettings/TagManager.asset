@@ -4,12 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< HEAD
   - Fire
-  - Draggable
-=======
   - Rock
->>>>>>> dev
+  - Draggable
+  - Fish
+  - Skewer
+  - Window
+  - SkewerTop
+  - SkewerMiddle
   layers:
   - Default
   - TransparentFX
@@ -19,7 +21,7 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
+  - 
   - 
   - 
   - 
